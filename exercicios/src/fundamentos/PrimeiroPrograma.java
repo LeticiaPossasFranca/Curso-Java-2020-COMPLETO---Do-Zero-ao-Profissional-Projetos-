@@ -1,3 +1,10 @@
+/**
+ * @author Leticia Possas
+ */
+// Comentário de uma linha
+/*
+ * Comentário de várias linhas 
+ */
 package fundamentos;
 
 public class PrimeiroPrograma {
